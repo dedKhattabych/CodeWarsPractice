@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codewars Katas two", "Codewars Katas two\Codewars Katas two.csproj", "{B6DB80E5-2597-420A-A86A-1148C6287EC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project1", "project1\project1.csproj", "{1B092DEA-A60D-475B-8C2A-5F2E180BAC7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6DB80E5-2597-420A-A86A-1148C6287EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6DB80E5-2597-420A-A86A-1148C6287EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6DB80E5-2597-420A-A86A-1148C6287EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6DB80E5-2597-420A-A86A-1148C6287EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B092DEA-A60D-475B-8C2A-5F2E180BAC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B092DEA-A60D-475B-8C2A-5F2E180BAC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B092DEA-A60D-475B-8C2A-5F2E180BAC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B092DEA-A60D-475B-8C2A-5F2E180BAC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D449D36-6A21-4976-977A-FEE3865B0F8F}
+	EndGlobalSection
+EndGlobal
